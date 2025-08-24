@@ -1,0 +1,323 @@
+/* Dark theme overrides for GitHubCalendar */
+.calendar {
+  background: #18181b !important;
+  color: #e5e7eb !important;
+  border-radius: 12px;
+  padding: 1.5rem;
+}
+.calendar .contrib-legend,
+.calendar .contrib-footer,
+.calendar .contrib-header {
+  color: #a1a1aa !important;
+}
+.calendar .contrib-legend .legend,
+.calendar .contrib-legend .legend-label {
+  color: #a1a1aa !important;
+}
+.calendar .contrib-legend .legend {
+  background: none !important;
+}
+.calendar .contrib-legend .legend .color-empty {
+  fill: #27272a !important;
+}
+.calendar .contrib-legend .legend .color-scale-0 {
+  fill: #27272a !important;
+}
+.calendar .contrib-legend .legend .color-scale-1 {
+  fill: #334155 !important;
+}
+.calendar .contrib-legend .legend .color-scale-2 {
+  fill: #2563eb !important;
+}
+.calendar .contrib-legend .legend .color-scale-3 {
+  fill: #1d4ed8 !important;
+}
+.calendar .contrib-legend .legend .color-scale-4 {
+  fill: #0ea5e9 !important;
+}
+.calendar .contrib-legend .legend .color-scale-5 {
+  fill: #22d3ee !important;
+}
+.calendar .contrib-legend .legend .color-scale-6 {
+  fill: #67e8f9 !important;
+}
+.calendar .contrib-legend .legend .color-scale-7 {
+  fill: #a5f3fc !important;
+}
+.calendar .contrib-legend .legend .color-scale-8 {
+  fill: #f472b6 !important;
+}
+.calendar .contrib-legend .legend .color-scale-9 {
+  fill: #facc15 !important;
+}
+.calendar .contrib-legend .legend .color-scale-10 {
+  fill: #fbbf24 !important;
+}
+.calendar .contrib-legend .legend .color-scale-11 {
+  fill: #f59e42 !important;
+}
+.calendar .contrib-legend .legend .color-scale-12 {
+  fill: #f87171 !important;
+}
+.calendar .contrib-legend .legend .color-scale-13 {
+  fill: #ef4444 !important;
+}
+.calendar .contrib-legend .legend .color-scale-14 {
+  fill: #dc2626 !important;
+}
+.calendar .contrib-legend .legend .color-scale-15 {
+  fill: #7c3aed !important;
+}
+.calendar .contrib-legend .legend .color-scale-16 {
+  fill: #a21caf !important;
+}
+.calendar .contrib-legend .legend .color-scale-17 {
+  fill: #be185d !important;
+}
+.calendar .contrib-legend .legend .color-scale-18 {
+  fill: #f43f5e !important;
+}
+.calendar .contrib-legend .legend .color-scale-19 {
+  fill: #f87171 !important;
+}
+.calendar .contrib-legend .legend .color-scale-20 {
+  fill: #fbbf24 !important;
+}
+.calendar .contrib-legend .legend .color-scale-21 {
+  fill: #facc15 !important;
+}
+.calendar .contrib-legend .legend .color-scale-22 {
+  fill: #f59e42 !important;
+}
+.calendar .contrib-legend .legend .color-scale-23 {
+  fill: #f472b6 !important;
+}
+.calendar .contrib-legend .legend .color-scale-24 {
+  fill: #a5f3fc !important;
+}
+.calendar .contrib-legend .legend .color-scale-25 {
+  fill: #67e8f9 !important;
+}
+.calendar .contrib-legend .legend .color-scale-26 {
+  fill: #22d3ee !important;
+}
+.calendar .contrib-legend .legend .color-scale-27 {
+  fill: #0ea5e9 !important;
+}
+.calendar .contrib-legend .legend .color-scale-28 {
+  fill: #1d4ed8 !important;
+}
+.calendar .contrib-legend .legend .color-scale-29 {
+  fill: #2563eb !important;
+}
+.calendar .contrib-legend .legend .color-scale-30 {
+  fill: #334155 !important;
+}
+.calendar .contrib-legend .legend .color-scale-31 {
+  fill: #27272a !important;
+}
+.calendar .contrib-legend .legend .color-scale-32 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-33 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-34 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-35 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-36 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-37 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-38 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-39 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-40 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-41 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-42 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-43 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-44 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-45 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-46 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-47 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-48 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-49 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-50 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-51 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-52 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-53 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-54 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-55 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-56 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-57 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-58 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-59 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-60 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-61 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-62 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-63 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-64 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-65 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-66 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-67 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-68 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-69 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-70 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-71 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-72 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-73 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-74 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-75 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-76 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-77 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-78 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-79 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-80 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-81 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-82 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-83 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-84 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-85 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-86 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-87 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-88 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-89 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-90 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-91 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-92 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-93 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-94 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-95 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-96 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-97 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-98 {
+  fill: #18181b !important;
+}
+.calendar .contrib-legend .legend .color-scale-99 {
+  fill: #18181b !important;
+}
+
